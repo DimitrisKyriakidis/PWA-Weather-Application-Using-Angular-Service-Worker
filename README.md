@@ -14,7 +14,7 @@ On this site, you'll find a comprehensive list of the available APIs provided by
 
 Access the confirmation email and click on the "Verify your email" button to finalize the registration process. Soon after, OpenWeather will send another email containing essential details about your current subscription, including the API key and the HTTP endpoint for communication with the API.
 
-# If you want to run the application offline with the service worker
+# Run the application offline with the service worker
 
 Run `ng build`. After success build run `npm run server` and open `http://localhost:8080/`.
 
