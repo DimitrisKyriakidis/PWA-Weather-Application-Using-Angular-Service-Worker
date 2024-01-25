@@ -1,0 +1,15 @@
+{
+  "targets": {
+    "weather-app-e79d5": {
+      "public": "dist/weather-app",
+      "hosting": {
+        "weather-app": [
+          "weather-app-e79d5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weather-app-e79d5"
+  }
+}
